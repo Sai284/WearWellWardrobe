@@ -1,5 +1,7 @@
 # WearWellWardrobe
 
+please unzip the file and follow the setup instructions below to run the website
+
 Main Program built for JH03 Joint Honours project.
 
 An innovative app promoting sustainable clothing management, designed specifically for UK households.​
