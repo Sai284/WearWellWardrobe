@@ -2,6 +2,23 @@
 
 Main Program built for JH03 Joint Honours project.
 
+An innovative app promoting sustainable clothing management, designed specifically for UK households.​
+​
+Wear Well Wardrobe system:​
+General UK-wide advice, with broad directions such as “first place to check is your local council website.”​
+Questionnaire integration to enhance user interaction and personalisation.​
+Intuitive sections:​
+- Access – sustainably sourcing  clothing.​
+- Maintaining – Extending garment lifespan.​
+- Storage – Effective storage tips.​
+- Adapt – Creative upcycling tips.​
+- Disposal – Emphasis on Refuse, Reuse, Recycle.​
+​
+"User Engagement and Differentiation"​
+Comprehensive competitor research to identify distinct app features.​
+Content designed to encourage sustainable practices without promoting clothing overconsumption.​
+​
+
 ## Stack
 
 Backend (Django):
